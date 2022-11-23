@@ -49,6 +49,6 @@ if __name__ == '__main__':
 #   prortfolio, cov, beta, diversification ratio
 #***************************************************
 
-    print(market)
-    print(price_df)
+    # print(market)
+    # print(price_df)
 
